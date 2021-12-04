@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+//Лапюк Сергій, К-25, варіант №17
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
