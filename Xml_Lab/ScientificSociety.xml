@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScientificSociety>
+	<Cathedra CthdrName="Обчислювальної математики" Cthdr_ID="01" FcltName="ФКНК">
+		<Member Name="Молодцов Олександр" TimeOfEntry="24.08.1953" Sex="Чоловік"/>
+		<Member Name="Рубльов Богдан" TimeOfEntry="07.09.1960" Sex="Чоловік"/>
+	</Cathedra>
+	<Cathedra CthdrName="Теорії та технології програмування" Cthdr_ID="02" FcltName="ФКНК">
+		<Member Name="Шкільняк Степан" TimeOfEntry="07.09.1962" Sex="Чоловік"/>
+		<Member Name="Зубенко Віталій" TimeOfEntry="22.02.1960" Sex="Чоловік"/>
+	</Cathedra>
+	<Cathedra CthdrName="Загальної фізики" Cthdr_ID="03" FcltName="Фізичний">
+		<Member Name="Боровий Микола" TimeOfEntry="29.10.1952" Sex="Чоловік"/>
+		<Member Name="Козаченко Віктор" TimeOfEntry="12.05.1957" Sex="Чоловік"/>
+	</Cathedra>
+	<Cathedra CthdrName="Квантової теорії поля" Cthdr_ID="04" FcltName="Фізичний">
+		<Member Name="Доценко Іван" TimeOfEntry="17.06.1954" Sex="Чоловік"/>
+	</Cathedra>
+	<Cathedra CthdrName="Зарубіжної літератури" Cthdr_ID="05" FcltName="Філологічний">
+		<Member Name="Білик Наталія" TimeOfEntry="07.07.1962" Sex="Жінка"/>
+		<Member Name="Кабкова Ольга" TimeOfEntry="19.03.1963" Sex="Жінка"/>
+		<Member Name="Мегела Іван" TimeOfEntry="22.10.2005" Sex="Чоловік"/>
+		<Member Name="Михед Тетяна" TimeOfEntry="04.04.2014" Sex="Жінка"/>
+	</Cathedra>
+</ScientificSociety>

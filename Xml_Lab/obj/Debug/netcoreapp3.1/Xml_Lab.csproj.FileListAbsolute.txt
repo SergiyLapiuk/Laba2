@@ -1,0 +1,16 @@
+C:\Users\acer\Desktop\laba#2\Xml_Lab\bin\Debug\netcoreapp3.1\Xml_Lab.exe
+C:\Users\acer\Desktop\laba#2\Xml_Lab\bin\Debug\netcoreapp3.1\Xml_Lab.deps.json
+C:\Users\acer\Desktop\laba#2\Xml_Lab\bin\Debug\netcoreapp3.1\Xml_Lab.runtimeconfig.json
+C:\Users\acer\Desktop\laba#2\Xml_Lab\bin\Debug\netcoreapp3.1\Xml_Lab.runtimeconfig.dev.json
+C:\Users\acer\Desktop\laba#2\Xml_Lab\bin\Debug\netcoreapp3.1\Xml_Lab.dll
+C:\Users\acer\Desktop\laba#2\Xml_Lab\bin\Debug\netcoreapp3.1\Xml_Lab.pdb
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.Form1.resources
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.AssemblyInfo.cs
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.dll
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.pdb
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.genruntimeconfig.cache
+C:\Users\acer\Desktop\laba#2\Xml_Lab\obj\Debug\netcoreapp3.1\Xml_Lab.csproj.AssemblyReference.cache

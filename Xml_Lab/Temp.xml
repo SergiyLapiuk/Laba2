@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ScientificSociety>
+  <Member Name="Білик Наталія" TimeOfEntry="07.07.1962" Sex="Жінка" CthdrName="Зарубіжної літератури" Cthdr_ID="05" FcltName="Філологічний" />
+  <Member Name="Кабкова Ольга" TimeOfEntry="19.03.1963" Sex="Жінка" CthdrName="Зарубіжної літератури" Cthdr_ID="05" FcltName="Філологічний" />
+  <Member Name="Мегела Іван" TimeOfEntry="22.10.2005" Sex="Чоловік" CthdrName="Зарубіжної літератури" Cthdr_ID="05" FcltName="Філологічний" />
+  <Member Name="Михед Тетяна" TimeOfEntry="04.04.2014" Sex="Жінка" CthdrName="Зарубіжної літератури" Cthdr_ID="05" FcltName="Філологічний" />
+</ScientificSociety>
